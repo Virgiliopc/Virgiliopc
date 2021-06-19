@@ -29,7 +29,6 @@
 [![Cypress](https://img.shields.io/badge/Cypress-black?style=flat-square&logo=cypress&link=https://github.com/virgiliopc/)](https://github.com/virgiliopc/)
 
 ## Ongoing courses
-[![Kotlin](https://img.shields.io/badge/-Kotlin-E34F26?style=flat-square&logo=kotlin&logoColor=white&link=https://github.com/virgiliopc/)](https://github.com/virgiliopc/)
 [![Java](https://img.shields.io/badge/-Java-E34F26?style=flat-square&logo=java&logoColor=white&link=https://github.com/virgiliopc/)](https://github.com/virgiliopc/)
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=virgiliopc&show_icons=true" alt="virgiliopc" /> </p>
